@@ -4,6 +4,8 @@ set ambiwidth=single
 syntax on
 set foldmethod=marker
 set shiftwidth=4
+set tabstop=4
+set expandtab
 set hlsearch
 set guifont=Courier\ new\ 14
 set ts=4
