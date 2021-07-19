@@ -7,6 +7,7 @@ set shiftwidth=4
 set tabstop=4
 set expandtab
 set hlsearch
+"set guifont=Fixedsys:h20 "修改字体大小
 set guifont=Courier\ new\ 14
 set ts=4
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
